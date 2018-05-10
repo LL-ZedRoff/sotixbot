@@ -1,0 +1,15 @@
+{
+  "name": "sotixbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\ && exit l"
+  },
+  "author": "ZedRoff",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.2.1",
+    "init": "^0.1.2"
+  }
+}
