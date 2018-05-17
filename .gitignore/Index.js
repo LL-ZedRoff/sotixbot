@@ -97,7 +97,7 @@ bot.user.setPresence({ game: { name: '[S!help] Sotix Bot !'} });
 console.log("Bot prêt Chef !");
 });
 
-bot.login('NDQzMTEwNzUxOTUxOTEyOTgx.DdWq3Q.bE1h1ANM5ILimkTbQjHSUsLgZ_0');
+bot.login('prcess.env.TOKEN');
 
 bot.on('message', message => {
 
